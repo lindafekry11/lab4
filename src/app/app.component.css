@@ -1,0 +1,9 @@
+.body{
+  background-color: whitesmoke;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 60%;
+  margin: auto;
+  padding: 10px;
+}
